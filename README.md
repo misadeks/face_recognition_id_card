@@ -4,5 +4,6 @@ This solution enables age and facial verification of users using Serbian ID card
 
 ## Requirements
 - `freesteel`
+- `srtools`
 - `face_recognition`
 - `opencv`
